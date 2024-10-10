@@ -5,7 +5,6 @@ This project is a simple Text to Voice Converter built using HTML, CSS, and Java
 ## Features
 - Voice Selection: Users can choose different voices based on their preferences (e.g., male, female, or accent variations).
 - Text-to-Speech Conversion: Converts the text entered into the textarea to speech using the browser's Web Speech API.
-- Responsive UI: The design is responsive and adjusts to different screen sizes.
 
 ## Dependencies
 - The project uses the browser's native Web Speech API for text-to-speech conversion. It works on most modern browsers like Chrome, Edge, and Safari.
